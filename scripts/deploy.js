@@ -11,7 +11,7 @@ const main = async () => {
 	await txn.wait();
 	console.log('Minted domain anon.Kn0wnUn');
 
-	txn = await domainContract.setRecord('Kn0wnUn', '>Be me Kn0wnUn');
+	txn = await domainContract.setRecord('Kn0wnUn', '> Be me Kn0wnUn');
 	await txn.wait();
 	console.log('Set record for anon.Kn0wnUn');
 
@@ -34,4 +34,4 @@ const runMain = async () => {
 
 runMain();
 
-// 0xad9b31B31CBfEd72ea875D3B9f6813757483b2aD
+// `0x80Dea5F049d72e4750862f842C62E44E97be5a1D`

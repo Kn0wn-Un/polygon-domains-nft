@@ -101,6 +101,7 @@ contract Domains is ERC721URIStorage {
         _safeMint(msg.sender, newRecordId);
         _setTokenURI(newRecordId, finalTokenUri);
         domains[name] = msg.sender;
+        names[newRecordId] = name;
         _tokenIds.increment();
         console.log(
             "Domain %s.%s has been registered to %s",
