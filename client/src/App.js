@@ -424,6 +424,12 @@ const App = () => {
 						target="_blank"
 						rel="noreferrer"
 					>{`built with @${TWITTER_HANDLE}`}</a>
+					<a
+						className="footer-text"
+						href="https://github.com/Kn0wn-Un"
+						target="_blank"
+						rel="noreferrer"
+					>{`by Kn0wn-Un`}</a>
 				</div>
 			</div>
 		</div>
