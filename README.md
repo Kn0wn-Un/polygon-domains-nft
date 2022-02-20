@@ -12,7 +12,7 @@ ENS’s job is to map human-readable names like ‘alice.eth’ to machine-reada
 
 Polygon is a “layer two” or “sidechain” scaling solution that runs alongside the Ethereum blockchain — allowing for speedy transactions and low fees. MATIC is the network’s native cryptocurrency, which is used for fees, staking, and more.
 
-This project was made with [@buildspace](https://github.com/buildspace) and it focuses on what a Naming service is and how it one works.
+This project was made with [@buildspace](https://github.com/buildspace) and it focuses on what a Naming service is and how it works.
 
 ### [View Demo 👀](https://kn0wn-un.github.io/polygon-domains-nft/)
 
