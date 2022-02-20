@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/polygon-domains-nft/static/css/main.f3e3c501.chunk.css",
-    "main.js": "/polygon-domains-nft/static/js/main.1b31de8a.chunk.js",
-    "main.js.map": "/polygon-domains-nft/static/js/main.1b31de8a.chunk.js.map",
+    "main.css": "/polygon-domains-nft/static/css/main.70899f1f.chunk.css",
+    "main.js": "/polygon-domains-nft/static/js/main.4628b960.chunk.js",
+    "main.js.map": "/polygon-domains-nft/static/js/main.4628b960.chunk.js.map",
     "runtime-main.js": "/polygon-domains-nft/static/js/runtime-main.ba1a3cf3.js",
     "runtime-main.js.map": "/polygon-domains-nft/static/js/runtime-main.ba1a3cf3.js.map",
-    "static/js/2.3be9c4ce.chunk.js": "/polygon-domains-nft/static/js/2.3be9c4ce.chunk.js",
-    "static/js/2.3be9c4ce.chunk.js.map": "/polygon-domains-nft/static/js/2.3be9c4ce.chunk.js.map",
+    "static/js/2.739ff233.chunk.js": "/polygon-domains-nft/static/js/2.739ff233.chunk.js",
+    "static/js/2.739ff233.chunk.js.map": "/polygon-domains-nft/static/js/2.739ff233.chunk.js.map",
     "index.html": "/polygon-domains-nft/index.html",
-    "static/css/main.f3e3c501.chunk.css.map": "/polygon-domains-nft/static/css/main.f3e3c501.chunk.css.map",
-    "static/js/2.3be9c4ce.chunk.js.LICENSE.txt": "/polygon-domains-nft/static/js/2.3be9c4ce.chunk.js.LICENSE.txt",
+    "static/css/main.70899f1f.chunk.css.map": "/polygon-domains-nft/static/css/main.70899f1f.chunk.css.map",
+    "static/js/2.739ff233.chunk.js.LICENSE.txt": "/polygon-domains-nft/static/js/2.739ff233.chunk.js.LICENSE.txt",
     "static/media/polygonlogo.6cde40a9.png": "/polygon-domains-nft/static/media/polygonlogo.6cde40a9.png",
     "static/media/twitter-logo.ab177c79.svg": "/polygon-domains-nft/static/media/twitter-logo.ab177c79.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ba1a3cf3.js",
-    "static/js/2.3be9c4ce.chunk.js",
-    "static/css/main.f3e3c501.chunk.css",
-    "static/js/main.1b31de8a.chunk.js"
+    "static/js/2.739ff233.chunk.js",
+    "static/css/main.70899f1f.chunk.css",
+    "static/js/main.4628b960.chunk.js"
   ]
 }
